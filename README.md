@@ -17,5 +17,8 @@ Tendermint gRPC: https://grpc-t.haqq.nodestake.top/
 NodeStake:
 
 https://explorer.nodestake.top/haqq-testedge
-## Validator Tools
 
+## Validator / Community Tools
+DTeam:
+
+Faucet telegram bot(mainnet/testnet) - https://t.me/haqqfaucetbot
